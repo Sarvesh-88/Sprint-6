@@ -8,7 +8,7 @@ This project fulfills Sprint 1 engineering requirements by implementing dynamic 
 ## 🔗 Important Links
 
 - 🌐 Live Website: https://sprint-6-rho.vercel.app/
-- 🎥 Demo Video: https://your-video-link-here.com
+- 🎥 Demo Video: https://drive.google.com/file/d/1vFHU7pp1OvXGCQ_EMh1V3MT_-YCrKSYe/view?usp=drivesdk
 - 📸 Screenshots: https://github.com/Sarvesh-88/Sprint-6/blob/main/sprint-6-img.png
 
 ---
