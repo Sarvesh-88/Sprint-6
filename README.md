@@ -1,16 +1,76 @@
-# React + Vite
+ Sprint 6 Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive, modern Single Page Application (SPA) built using React and React Router DOM.  
+This project fulfills Sprint 1 engineering requirements by implementing dynamic routing, API integration, and a clean component-based architecture for an e-commerce frontend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Important Links
 
-## React Compiler
+- 🌐 Live Website: https://your-live-link-here.com
+- 🎥 Demo Video: https://your-video-link-here.com
+- 📸 Screenshots: Add below
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Project Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(Add screenshots of Home, Shop, and Product Details pages here)
+
+---
+
+## 📌 Project Overview
+
+This project is a simple e-commerce frontend where users can:
+
+- Browse products
+- View product details
+- Navigate between pages without page reload (SPA behavior)
+
+All product data is fetched dynamically from the DummyJSON API.
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- React Router DOM
+- JavaScript (ES6+)
+- CSS3 (Flexbox & Grid)
+- DummyJSON REST API
+
+---
+
+## 🚀 Features
+
+### 🧭 Routing
+- Home page (`/`)
+- Shop page (`/shop`)
+- Product details page (`/product/:id`)
+
+### 🛍️ Product Listing
+- Fetches products from API
+- Displays products in responsive grid layout
+
+### 🔍 Dynamic Product Page
+- Uses `useParams()` for dynamic routing
+- Fetches single product details from API
+
+### ⚡ SPA Navigation
+- No page reload
+- Uses `Link` and `useNavigate`
+
+### 📱 Responsive UI
+- Fully responsive design for all devices
+- Built using CSS Grid & Flexbox
+
+---
+
+## 🌐 API Reference
+
+- Products: https://dummyjson.com/products  
+- Product Details: https://dummyjson.com/products/{id}
+
+---
+
+## 📂 Project Structure
