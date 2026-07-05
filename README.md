@@ -7,7 +7,7 @@ This project fulfills Sprint 1 engineering requirements by implementing dynamic 
 
 ## 🔗 Important Links
 
-- 🌐 Live Website: https://your-live-link-here.com
+- 🌐 Live Website: https://sprint-6-rho.vercel.app/
 - 🎥 Demo Video: https://your-video-link-here.com
 - 📸 Screenshots: Add below
 
